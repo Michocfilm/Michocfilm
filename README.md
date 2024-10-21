@@ -32,7 +32,7 @@ I've been learning to write various programs.
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
     </picture> 
   </a>
-  <a href="http://www.instagram.com/https://www.instagram.comluckyboyn9?igsh=a201c2hlOW1qdWF1" target="_blank" rel="noreferrer"> 
+  <a href="https://www.instagram.comluckyboyn9?igsh=a201c2hlOW1qdWF1" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
