@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michoc Prapanjareonsin
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michoc Prapanjareonsin 
 ==============================================================================================================================================
 
-Student
+Student <img src="https://komarev.com/ghpvc/?username=Michocfilm&label=Profile+Views&style=flat&color=brightgreen&abbreviated=true" alt="account counter"/>
 -------
 
 I've been learning to write various programs.
